@@ -8,3 +8,23 @@
     padding-top: 300px;
     padding-bottom: 300px;
 }
+.img-site {
+    background-image: url(../imagens/bg-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.footer-site {
+    background-image: url(../imagens/bg-3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
